@@ -1,0 +1,10 @@
+D:\VSProjects\interviewmapping\interviewmapping\bin\Debug\interviewmapping.exe.config
+D:\VSProjects\interviewmapping\interviewmapping\bin\Debug\interviewmapping.exe
+D:\VSProjects\interviewmapping\interviewmapping\bin\Debug\interviewmapping.pdb
+D:\VSProjects\interviewmapping\interviewmapping\obj\Debug\interviewmapping.csprojResolveAssemblyReference.cache
+D:\VSProjects\interviewmapping\interviewmapping\obj\Debug\interviewmapping.Form1.resources
+D:\VSProjects\interviewmapping\interviewmapping\obj\Debug\interviewmapping.Properties.Resources.resources
+D:\VSProjects\interviewmapping\interviewmapping\obj\Debug\interviewmapping.csproj.GenerateResource.Cache
+D:\VSProjects\interviewmapping\interviewmapping\obj\Debug\interviewmapping.exe
+D:\VSProjects\interviewmapping\interviewmapping\obj\Debug\interviewmapping.pdb
+D:\VSProjects\interviewmapping\interviewmapping\obj\Debug\interviewmapping.csproj.ResolveComReference.cache
